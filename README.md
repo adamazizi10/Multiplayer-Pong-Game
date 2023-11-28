@@ -5,14 +5,6 @@
     <br>
   </p>
 
-<p align="center">
-    A CPS714 Project
-    <br>
-    Fall 2023
-    <br>
-    Toronto Metropolitan University
-</p>
-
 ## Installation and Running Dev Server
 
 1. Clone the repo or download the zip
