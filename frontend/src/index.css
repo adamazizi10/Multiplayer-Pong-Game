@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Fira Code', monospace;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+button {
+  font-family: 'Fira Code', monospace;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
