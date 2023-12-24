@@ -26,6 +26,33 @@
      - The frontend urls can be configured from the `.env.development` file.
    - Backend
      - Navigate to the `backend/pong_backend` directory and run `python manage.py runserver`
+## Snapshots
+# Landing Page
+<img width="1512" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/10f26e6f-d71f-44ad-899d-d96125628ca8">
+
+# Login Page
+<img width="1512" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/217b53f2-9689-4a36-a8eb-b9c300a582d9">
+
+# Sign Up Page
+<img width="1512" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/dfeb6653-50c0-4ebd-a353-b11ac0a69a76">
+
+# Play Tab
+<img width="1512" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/9ab7df8f-376e-45c7-a515-2bfc710b9d32">
+
+# Match History Tab
+<img width="1496" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/71445584-2b29-4922-85d4-e164ff4efeb1">
+
+# Leaderboard Tab
+<img width="1497" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/791416bb-7484-4a7b-8937-971628b2dd8e">
+
+# Profile Tab
+<img width="1496" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/ff143403-caf3-4ec4-b3b6-7b5ad8d4b243">
+
+
+
+
+
+
 
 ## Usage
 
