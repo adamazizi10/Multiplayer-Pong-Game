@@ -40,20 +40,18 @@
 <img width="1512" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/9ab7df8f-376e-45c7-a515-2bfc710b9d32">
 
 # Match History Tab
-<img width="1496" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/71445584-2b29-4922-85d4-e164ff4efeb1">
+<img width="1494" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/bcea2962-12a0-4b52-95ed-13c01f44d411">
 
 # Leaderboard Tab
-<img width="1497" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/791416bb-7484-4a7b-8937-971628b2dd8e">
+<img width="1493" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/1547ce0e-e78e-40e2-b338-edf8f2021c71">
 
 # Profile Tab
-<img width="1496" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/ff143403-caf3-4ec4-b3b6-7b5ad8d4b243">
+<img width="1496" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/aa9dc18e-fdf6-4262-9102-8010408bc6a7">
 
 
 
 
-
-
-
+# Additional Info
 ## Usage
 
 - Navigate to http://localhost:3000/ in your browser for the game
@@ -99,3 +97,5 @@
   - This is due to the way our backend is designed, where players must be unique or a guest in each match
 - If the game start is freezing or the paddles aren't loading, make sure all browsers are viewable and focused if possible
   - This is because browsers attempt to freeze javascript if the browser is in the background to save resources
+
+# End of User Guide
