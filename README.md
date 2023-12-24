@@ -37,7 +37,10 @@
 <img width="1512" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/dfeb6653-50c0-4ebd-a353-b11ac0a69a76">
 
 # Play Tab
-<img width="1512" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/9ab7df8f-376e-45c7-a515-2bfc710b9d32">
+<img width="1512" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/cf1f2909-c30e-44da-82b8-88e7d55c1470">
+
+
+
 
 # Match History Tab
 <img width="1494" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/bcea2962-12a0-4b52-95ed-13c01f44d411">
