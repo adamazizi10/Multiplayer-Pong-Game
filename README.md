@@ -48,6 +48,12 @@
 # Profile Tab
 <img width="1496" alt="image" src="https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/aa9dc18e-fdf6-4262-9102-8010408bc6a7">
 
+# Game Lobby
+![image](https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/8e0c5ca3-e807-47a6-82ca-031b3de19820)
+
+# Example of 8 Players playing at once. The green represents the player, red represents all the oponents
+![image](https://github.com/adamazizi10/Multiplayer-Pong-Game/assets/106051947/1a7a9c49-45e9-462d-8405-a9176ecb1aeb)
+
 
 
 
